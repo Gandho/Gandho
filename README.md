@@ -1,7 +1,7 @@
 ### Hi there 👋 
 - I'm Micha from Germany and 29 Years old.🇩🇪
 - I try to learn programming Languages.🤖
-  - 🌱 I’m currently learning GitHub 🫤
+  - 🌱 I’m currently learning GitHub
 - I love to play MtG 🌳💀🔥💧☀
 - ⚡ Fun fact: I'm a male nurse 👨‍⚕️
 <!--
