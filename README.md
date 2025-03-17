@@ -4,7 +4,7 @@
 - I try to learn programming Languages.🤖
   - 🌱 I’m currently learning GitHub and started learning HTML.
 - ⚡ Fun fact: I'm a male nurse 👨‍⚕️
-### Frontend Checklist
+### Frontend
     
   [x] HTML & CSS
 
@@ -20,7 +20,7 @@
 
   [x] APIs
 
-  ### Backend Checklist
+  ### Backend
 
 [x] Backend Language (JavaScript || Python || Rust)
 
