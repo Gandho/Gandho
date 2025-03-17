@@ -1,8 +1,23 @@
 ### Hi there 👋 
 - I'm Micha from Germany and 29 Years old.🇩🇪
+- I love to play MtG 🌳💀🔥💧☀
 - I try to learn programming Languages.🤖
   - 🌱 I’m currently learning GitHub
-- I love to play MtG 🌳💀🔥💧☀
+    
+  [x] HTML & CSS
+
+  [x] JavaScript && || Python
+
+  [x] JavaScript Web Framework
+
+  [x] Figma
+
+  [x] TailwindCSS
+
+  [x] Hosting & Deployment
+
+  [x] APIs
+  
 - ⚡ Fun fact: I'm a male nurse 👨‍⚕️
 <!--
 **MichaFischer/MichaFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
