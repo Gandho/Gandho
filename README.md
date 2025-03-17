@@ -2,8 +2,9 @@
 - I'm Micha from Germany and 29 Years old.🇩🇪
 - I love to play MtG 🌳💀🔥💧☀
 - I try to learn programming Languages.🤖
-  - 🌱 I’m currently learning GitHub
-  - ####Frontend Checklist
+  - 🌱 I’m currently learning GitHub and started learning HTML.
+- ⚡ Fun fact: I'm a male nurse 👨‍⚕️
+#### Frontend Checklist
     
   [x] HTML & CSS
 
@@ -19,7 +20,7 @@
 
   [x] APIs
   
-- ⚡ Fun fact: I'm a male nurse 👨‍⚕️
+
 <!--
 **MichaFischer/MichaFischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
