@@ -1,5 +1,5 @@
 ### Hi there 👋 
-- I'm Micha from Germany and 29 Years old.🇩🇪
+- I'm Micha from Germany and 29 Years old.
 - I love to play MtG 🌳💀🔥💧☀
 - I try to learn programming Languages.🤖
   - 🌱 I’m currently learning GitHub and started learning HTML.
